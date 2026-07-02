@@ -1,0 +1,11 @@
+Question 2 Report
+
+FILE PERMISSIONS AND OWNERSHIP REPORT
+
+Objective: To understand Linux file permissions and ownership.
+
+Observations: - Viewed and modified file permissions. - Examined
+ownership and metadata.
+
+Conclusion: Linux permissions and ownership help protect files and
+control access.

@@ -1,0 +1,15 @@
+Question 2 – File Permissions and Ownership
+
+1.  ls -l Purpose: Displays file permissions, owner, group, size and
+    modification date.
+
+2.  chmod Purpose: Changes file or directory permissions.
+
+3.  chown Purpose: Changes file or directory ownership.
+
+4.  groups Purpose: Displays the groups of the current user.
+
+5.  id Purpose: Displays user ID, group ID and group memberships.
+
+6.  stat Purpose: Displays detailed metadata such as inode, permissions,
+    timestamps and owner.
