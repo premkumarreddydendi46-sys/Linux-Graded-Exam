@@ -1,0 +1,43 @@
+Question 4 – File Access and I/O Investigation
+
+1.  mkdir IO_Investigation Purpose: Creates the experiment directory.
+
+2.  cd IO_Investigation Purpose: Enters the experiment directory.
+
+3.  nano sample.txt Purpose: Creates the sample file.
+
+4.  ls -l Purpose: Displays file details.
+
+5.  cat sample.txt Purpose: Displays the sample file.
+
+6.  lsof Purpose: Lists all open files.
+
+7.  ls -l /proc/self/fd Purpose: Displays the current process file
+    descriptors.
+
+8.  echo “Linux I/O Investigation” > output.txt Purpose: Redirects
+    output to a file.
+
+9.  cat output.txt Purpose: Displays the output file.
+
+10. echo “Appending another line.” >> output.txt Purpose: Appends text
+    to the file.
+
+11. cat output.txt Purpose: Verifies appended content.
+
+12. ls abc Purpose: Generates an error for demonstration.
+
+13. ls abc 2> error.txt Purpose: Redirects standard error to a file.
+
+14. cat error.txt Purpose: Displays the redirected error.
+
+15. ls sample.txt abc > result.txt 2>&1 Purpose: Redirects both output
+    and error to one file.
+
+16. cat result.txt Purpose: Displays the combined output.
+
+17. ulimit -a Purpose: Displays resource limits.
+
+18. nano IO_Investigation_Report.txt Purpose: Creates the report.
+
+19. cat IO_Investigation_Report.txt Purpose: Displays the report.

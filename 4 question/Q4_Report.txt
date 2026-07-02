@@ -1,0 +1,11 @@
+Question 4 Report
+
+FILE ACCESS AND I/O INVESTIGATION REPORT
+
+Objective: To study file descriptors and I/O redirection.
+
+Observations: - Observed open files and file descriptors. - Performed
+output, append and error redirection. - Viewed resource limits.
+
+Conclusion: Linux manages input and output using file descriptors and
+redirection operators.
