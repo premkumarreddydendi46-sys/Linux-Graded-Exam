@@ -1,0 +1,12 @@
+Question 3 Report
+
+FILE SYSTEM AND LINK ANALYSIS REPORT
+
+Objective: To study hard links and symbolic links.
+
+Observations: - Hard link shared the same inode as the original file. -
+Symbolic link had a different inode. - Hard link worked after deleting
+the original file. - Symbolic link became broken.
+
+Conclusion: Hard links reference the same inode, while symbolic links
+reference the file path.

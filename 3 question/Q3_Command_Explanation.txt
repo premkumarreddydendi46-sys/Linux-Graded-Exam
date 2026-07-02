@@ -1,0 +1,40 @@
+Question 3 – File System and Link Analysis
+
+1.  mkdir Link_Analysis Purpose: Creates the experiment directory.
+
+2.  cd Link_Analysis Purpose: Enters the experiment directory.
+
+3.  nano original.txt Purpose: Creates the original file.
+
+4.  ln original.txt hardlink.txt Purpose: Creates a hard link.
+
+5.  ln -s original.txt softlink.txt Purpose: Creates a symbolic link.
+
+6.  ls -l Purpose: Displays detailed file information and symbolic link
+    target.
+
+7.  ls -li Purpose: Displays file details with inode numbers.
+
+8.  stat original.txt Purpose: Shows metadata of the original file.
+
+9.  stat hardlink.txt Purpose: Shows metadata of the hard link.
+
+10. stat softlink.txt Purpose: Shows metadata of the symbolic link.
+
+11. cat original.txt Purpose: Displays the original file contents.
+
+12. cat hardlink.txt Purpose: Displays the hard link contents.
+
+13. cat softlink.txt Purpose: Displays the symbolic link contents.
+
+14. rm original.txt Purpose: Deletes the original file.
+
+15. ls -l Purpose: Verifies remaining files.
+
+16. cat hardlink.txt Purpose: Confirms the hard link still works.
+
+17. cat softlink.txt Purpose: Confirms the symbolic link is broken.
+
+18. nano Link_Analysis_Report.txt Purpose: Creates the report.
+
+19. cat Link_Analysis_Report.txt Purpose: Displays the report.
