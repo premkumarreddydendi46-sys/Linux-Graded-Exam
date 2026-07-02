@@ -1,0 +1,27 @@
+Question 1 – Basic Linux Commands
+
+1.  pwd Purpose: Displays the current working directory.
+
+2.  ls Purpose: Lists files and directories.
+
+3.  ls -l Purpose: Displays detailed file information.
+
+4.  mkdir Purpose: Creates a new directory.
+
+5.  cd Purpose: Changes the current working directory.
+
+6.  touch Purpose: Creates an empty file.
+
+7.  nano Purpose: Opens the Nano editor to create or edit a file.
+
+8.  cat Purpose: Displays file contents.
+
+9.  cp Purpose: Copies files or directories.
+
+10. mv Purpose: Moves or renames files/directories.
+
+11. rm Purpose: Deletes files.
+
+12. rmdir Purpose: Deletes an empty directory.
+
+13. clear Purpose: Clears the terminal screen.

@@ -1,0 +1,12 @@
+Question 1 Report
+
+BASIC LINUX COMMANDS REPORT
+
+Objective: To learn and execute basic Linux commands for file and
+directory management.
+
+Observations: - Displayed the current working directory. - Listed files
+and directories. - Created, copied, moved, edited and deleted files.
+
+Conclusion: Basic Linux commands were successfully executed and
+understood.
