@@ -1,0 +1,13 @@
+Question 5 Report
+
+STORAGE HEALTH ASSESSMENT REPORT
+
+Objective: To assess storage devices and disk utilization.
+
+Observations: - Examined storage devices, mounted file systems, disk
+usage and inode utilization.
+
+Recommendations: - Monitor disk usage. - Remove unnecessary files. -
+Archive old logs.
+
+Conclusion: The storage system was healthy and functioning correctly.

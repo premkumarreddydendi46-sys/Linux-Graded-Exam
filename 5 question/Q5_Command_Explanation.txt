@@ -1,0 +1,23 @@
+Question 5 – Storage Health Assessment and Documentation
+
+1.  mkdir Storage_Assessment Purpose: Creates the experiment directory.
+
+2.  cd Storage_Assessment Purpose: Enters the experiment directory.
+
+3.  lsblk Purpose: Lists storage devices and partitions.
+
+4.  df -h Purpose: Displays mounted file systems and disk usage.
+
+5.  du -sh . Purpose: Displays the size of the current directory.
+
+6.  df -i Purpose: Displays inode utilization.
+
+7.  mount Purpose: Displays mounted file systems.
+
+8.  vi Storage_Assessment_Report.txt Purpose: Creates the storage report
+    using the Vi editor.
+
+9.  :wq Purpose: Saves the file and exits Vi.
+
+10. cat Storage_Assessment_Report.txt Purpose: Displays the completed
+    report.
